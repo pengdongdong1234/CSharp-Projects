@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <AssemblyName>dotNetPkcs11Interop</AssemblyName>
+    <RootNamespace>Net.Pkcs11Interop</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>dotNetPkcs11Interop</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>pengdongdong1234</Authors>
+    <Company>pengdongdong1234</Company>
+    <Description>PKCS#11 Interop library for .NET applications</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/pengdongdong1234/CSharp-Projects</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pengdongdong1234/CSharp-Projects</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>pkcs11 cryptography security</PackageTags>
+  </PropertyGroup>
+
+</Project>
